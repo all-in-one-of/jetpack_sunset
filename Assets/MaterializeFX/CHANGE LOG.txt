@@ -1,0 +1,44 @@
+Change log:
+
+---------------------------------------------------------------------------------------------------------
+
+1.0 - released
+
+1.1 - added two albedo shader
+	  added scripts for easy use without animator
+	  the two shaders are combined into one
+
+1.1.1 - made editor improvements (inaccessible settings are hidden)        
+        added the ability to replace the original material for materialization and return the original back, after the completion of materialization
+        
+1.1.2 - added standart shader (metallic setup)
+        added ability to replace materials on object (runtime/editor modes) (feedback)
+		optimized shaders
+
+1.1.3 - added fringe option
+	    added standard specular shader
+		added option to invert direction (feedback)
+		added animation ending event (feedback)
+
+		fixed problem with MaskType:None
+
+1.1.4 - added full ASE shaders support by scripts
+		added option to select derection (and public functions to call materialize/dissolve) (feedback)
+
+		fixed problem with custom editor: Mark Scene as Dirty (feedback)
+
+		Obsoleted folder "MaterializationFX" was deleted
+
+1.1.5 - added ASE shaders with UI3D-System intergration
+		
+you can check the progress of the update here: https://trello.com/b/znDrmIao
+*this board can be deleted later
+
+---------------------------------------------------------------------------------------------------------
+
+Feel free to contact me with any questions and comments
+
+pelengami@gmail.com
+
+Best Regards,
+Max
